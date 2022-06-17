@@ -4,16 +4,16 @@ Here's a list of all the songs I own in Rock Band so people can easily make requ
 
 | Title | Artist | Year | Genre |
 | :--   | :--    |  --: | :--   |
-| # ¡Viva La Gloria! | Green Day | 2009 | Rock |
-| # ¿Viva La Gloria? (Little Girl) | Green Day | 2009 | Rock |
-| # …And Justic for All | Metallica | 1988 | Metal |
-| # 18 and Life | Skid Row | 1989 | Glam |
-| # 20th Century Boy | T. Rex | 1973 | Glam |
-| # 21 Guns | Green Day | 2009 | Rock |
-| # 21st Century Breakdown | Green Day | 2009 | Rock |
-| # 25 or 6 to 4 | Chicago | 1970 | Classic Rock |
-| # 29 Fingers | The Konks | 2005 | Rock |
-| # 867-5309/Jenny | Tommy Tutone | 2005 | Rock |
+| ¡Viva La Gloria! | Green Day | 2009 | Rock |
+| ¿Viva La Gloria? (Little Girl) | Green Day | 2009 | Rock |
+| …And Justic for All | Metallica | 1988 | Metal |
+| 18 and Life | Skid Row | 1989 | Glam |
+| 20th Century Boy | T. Rex | 1973 | Glam |
+| 21 Guns | Green Day | 2009 | Rock |
+| 21st Century Breakdown | Green Day | 2009 | Rock |
+| 25 or 6 to 4 | Chicago | 1970 | Classic Rock |
+| 29 Fingers | The Konks | 2005 | Rock |
+| 867-5309/Jenny | Tommy Tutone | 2005 | Rock |
 | A Punk | Vampire Weekend | 2008 | Rock |
 | ABC | Jackson 5 | 1970 | Pop-Rock |
 | Accidentally in Love | Counting Crows | 2004 | Rock |
@@ -25,16 +25,16 @@ Here's a list of all the songs I own in Rock Band so people can easily make requ
 | Alex Chilton | The Replacements | 1987 | Rock |
 | Aliens Exist | Blink-182 | 1999 | Punk |
 | Alive | Pearl Jam | 1991 | Grunge |
-| All Along the Watchtower | Jimi Hendrix Experience, The | 1968 | Classic Rock |
+| All Along the Watchtower | The Jimi Hendrix Experience | 1968 | Classic Rock |
 | All I Wanna Do | Sheryl Crow | 1993 | Pop-Rock |
-| All Mixed Up | Cars, The | 1978 | New Wave |
+| All Mixed Up | The Cars | 1978 | New Wave |
 | All of This | Shaimus | 2006 | Indie Rock |
 | All Over You | Live | 1994 | Alternative |
 | Almost Easy | Avenged Sevenfold | 2007 | Metal |
 | Alone Time | Tigerman WOAH | 2016 | Rock |
 | Always | Blink-182 | 2003 | Punk |
 | Am I Crazy | Little Fish | 2010 | Indie Rock |
-| Amazing Journey | Who, The | 1969 | Classic Rock |
+| Amazing Journey | The Who | 1969 | Classic Rock |
 | American Eulogy | Green Day | 2009 | Rock |
 | American Girl (Live) | Tom Petty & the Heartbreakers | 2009 | Rock |
 | American Idiot | Green Day | 2004 | Rock |
@@ -48,21 +48,21 @@ Here's a list of all the songs I own in Rock Band so people can easily make requ
 | Are You Gonna Be My Girl | Jet | 2003 | Rock |
 | Ashes to Fire | Ghost Hounds | 2008 | Rock |
 | At Night in Dreams | White Denim | 2013 | Indie Rock |
-| Baba O'Riley | Who, The | 1971 | Classic Rock |
+| Baba O'Riley | The Who | 1971 | Classic Rock |
 | Bad Moon Rising | Creedence Clearwater Revival | 1969 | Southern Rock |
 | Bad Reputation | Joan Jett | 1980 | Punk |
-| Ballroom Blitz | Sweet (As Made Famous By) | 1975 | Glam |
+| Ballroom Blitz | Sweet, As Made Famous By | 1975 | Glam |
 | Bang Your Head (Metal Health) | Quiet Riot | 1983 | Metal |
 | Barracuda | Heart | 1977 | Classic Rock |
 | Basket Case | Green Day | 1994 | Punk |
 | Bathwater | No Doubt | 2003 | Pop-Rock |
 | Beast and the Harlot | Avenged Sevenfold | 2005 | Metal |
-| Beautiful People, The | Marilyn Manson | 1996 | Alternative |
+| The Beautiful People | Marilyn Manson | 1996 | Alternative |
 | Been Caught Stealing | Jane's Addiction | 1990 | Alternative |
 | Beethoven's C*** | Serj Tankian | 2007 | Nu-Metal |
 | Before I Forget | Slipknot | 2004 | Metal |
 | Before the Lobotomy | Green Day | 2009 | Rock |
-| Behind Blue Eyes | Who, The | 1971 | Classic Rock |
+| Behind Blue Eyes | The Who | 1971 | Classic Rock |
 | Bethany | Goddamn Draculas | 2015 | Rock |
 | Birth in Reverse | St. Vincent | 2014 | Indie Rock |
 | Black | Pearl Jam | 1991 | Grunge |
@@ -83,46 +83,46 @@ Here's a list of all the songs I own in Rock Band so people can easily make requ
 | Bohemian Rhapsody | Queen | 1975 | Classic Rock |
 | Born on the Bayou | Creedence Clearwater Revival | 1969 | Southern Rock |
 | Boulevard of Broken Dreams | Green Day | 2004 | Rock |
-| Bounce | Cab, The | 2008 | Pop-Rock |
+| Bounce | The Cab | 2008 | Pop-Rock |
 | Brain Stew/Jaded | Green Day | 1995 | Punk |
 | Brainpower | Freezepop | 2007 | Pop/Dance/Electronic |
-| Brass In Pocket | Pretenders, The  (As Made Famous By) | 1980 | New Wave |
-| Break on Through (To the Other Side) | Doors, The | 1967 | Classic Rock |
+| Brass In Pocket | The Pretenders, As Made Famous By | 1980 | New Wave |
+| Break on Through (To the Other Side) | The Doors | 1967 | Classic Rock |
 | Breakdown (Live) | Tom Petty & the Heartbreakers | 2009 | Rock |
 | Breakout | Foo Fighters | 1999 | Alternative |
 | Brown Eyed Girl | Van Morrison | 1967 | R&B/Soul/Funk |
 | Buddy Holly | Weezer | 1994 | Alternative |
 | Burn You Down | Opiate for the Masses | 2008 | Rock |
 | Burnout | Green Day | 1994 | Punk |
-| Bye Bye Love | Cars, The | 1978 | New Wave |
+| Bye Bye Love | The Cars | 1978 | New Wave |
 | Californication | Red Hot Chili Peppers | 1999 | Alternative |
 | Call Me | Blondie | 1981 | New Wave |
-| Camera Eye, The | Rush | 1981 | Prog |
+| The Camera Eye | Rush | 1981 | Prog |
 | Can't Let Go | Death of the Cool | 2007 | Rock |
-| Can't Stand Losing You | Police, The | 1978 | Rock |
+| Can't Stand Losing You | The Police | 1978 | Rock |
 | Carry On Wayward Son | Kansas | 1976 | Progressive |
 | Casablanca | Littlefoot | 2016 | Pop-Rock |
 | Caught in a Mosh | Anthrax | 1987 | Metal |
 | Caught Up in You | .38 Special | 1982 | Southern Rock |
 | Cedarwood Road | U2 | 2014 | Rock |
 | Celebrity Skin | Hole | 1998 | Pop-Rock |
-| Centerfold | J. Geils Band, The | 1981 | Rock |
+| Centerfold | The J. Geils Band | 1981 | Rock |
 | Centuries | Fall Out Boy | 2015 | Pop-Rock |
 | Century City (Live) | Tom Petty & the Heartbreakers | 2009 | Rock |
 | Charlene (I'm Right Behind You) | Stephen and the Colberts | 1986 | Pop-Rock |
 | Cheat on the Church | Graveyard BBQ | 2005 | Nu-Metal |
 | Check Yes Juliet | We the Kings | 2007 | Emo |
-| Cherry Bomb | Runaways, The (As Made Famous By) | 1976 | Punk |
+| Cherry Bomb | The Runaways, As Made Famous By | 1976 | Punk |
 | Cherry Pie | Warrant | 1990 | Glam |
 | Cherub Rock | Smashing Pumpkins | 1993 | Alternative |
 | Children of the Revolution | T. Rex | 1973 | Glam |
-| China Grove | Doobie Brothers, The | 1973 | Classic Rock |
+| China Grove | The Doobie Brothers | 1973 | Classic Rock |
 | Chop Suey | System of a Down | 2001 | Nu-Metal |
 | Christian's Inferno | Green Day | 2009 | Rock |
 | Chump | Green Day | 1994 | Punk |
 | Clint Eastwood | Gorillaz | 2001 | Hip-Hop/Rap |
 | Closer to the Heart | Rush | 1977 | Prog |
-| Closer, Closer | Warning Shots, The | 2016 | Punk |
+| Closer, Closer | The Warning Shots | 2016 | Punk |
 | Closing Time | Semisonic | 1998 | Alternative |
 | Cold as Ice | Foreigner | 1977 | Classic Rock |
 | Cold Clear Light | Johnny Blazes and the Pretty Boys | 2015 | R&B/Soul/Funk |
@@ -132,94 +132,140 @@ Here's a list of all the songs I own in Rock Band so people can easily make requ
 | Come As You Are (Live from MTV Unplugged) | Nirvana | 1994 | Grunge |
 | Come Out and Play (Keep Em Separated) | Offspring, The | 1994 | Punk |
 | Coming Clean | Green Day | 1994 | Punk |
-| Complete Control | Clash, The | 1977 | Punk |
+| Complete Control | The Clash | 1977 | Punk |
 | Complicated | Avril Lavigne | 2002 | Pop-Rock |
-| Con, The | Tegan and Sara | 2007 | Indie Rock |
+| The Con | Tegan and Sara | 2007 | Indie Rock |
 | Constant Disaster | When Particles Collide | 2014 | Alternative |
 | Conventional Lover | Speck | 2007 | Pop-Rock |
 | Cool for Cats | Squeeze | 1979 | New Wave |
 | Crackity Jones | Pixies | 1989 | Alternative |
-| Crash | Primitives, The | 1988 | Pop-Rock |
+| Crash | The Primitives | 1988 | Pop-Rock |
 | Crazy On You | Heart | 1976 | Classic Rock |
 | Crazy Train | Ozzy Osbourne | 1980 | Metal |
 | Crazy Tuesday | thenewno2 | 2008 | Pop-Rock |
 | Creep | Radiohead | 1993 | Alternative |
 | Crocodile Rock | Elton John | 1973 | Classic Rock |
 | Cross That Line | Michael Christmas | 2016 | Hip-Hop/Rap |
-| Crosstown Traffic | Jimi Hendrix Experience, The | 1968 | Classic Rock |
+| Crosstown Traffic | The Jimi Hendrix Experience | 1968 | Classic Rock |
 | Cult of Personality | Living Colour | 1988 | Rock |
-| Dani California | Red Hot Chili Peppers | 2000s | Rock |
-| Day Late, Dollar Short | The Acro-Brats | 2000s | Rock |
+| Dani California | Red Hot Chili Peppers | 2006 | Rock |
+| Database Corrupted | Dealership | 2004 | Indie Rock |
+| Day Late, Dollar Short | The Acro-Brats | 2006 | Rock |
+| Dead | Pixies | 1989 | Alternative |
 | Dead Black (Heart of Ice) | Soul Remnants | 2013 | Metal |
 | Dead End Friends | Them Crooked Vultures | 2009 | Rock |
-| Dead on Arrival | Fall Out Boy | 2000s | Emo |
+| Dead on Arrival | Fall Out Boy | 2003 | Emo |
 | Death on Two Legs (Dedicated To...) | Queen | 1975 | Classic Rock |
-| De-Luxe | Lush | 1990s | Alternative |
-| De-Luxe | Lush | 1990s | Alternative |
-| Detroit Rock City | Kiss | 1970s | Classic Rock |
+| De-Luxe | Lush | 1990 | Alternative |
+| Debaser | Pixies | 1989 | Alternative |
+| Deep | Pearl Jam | 1991 | Grunge |
+| Desperate Times, Desperate Measures | Underoath | 2008 | Emo |
+| Detroit Rock City | Kiss | 1976 | Classic Rock |
 | Diamond Eyes (Boom-Lay Boom-Lay Boom) | Shinedown | 2010 | Nu-Metal |
 | Dig | Incubus | 2006 | Alternative |
+| Dirty Little Secret | All-American Rejects | 2005 | Emo |
+| Do You Want To | Franz Ferdinand | 2005 | Alternative |
+| Dog Days Are Over | Florence + the Machine | 2009 | Indie Rock |
 | Don't Bury Me... I'm Still Not Dead | Riverboat Gamblers | 2006 | Punk |
-| Don't Fear The Reaper | Blue Öyster Cult | 1970s | Classic Rock |
+| Don't Cha Stop | The Cars | 1978 | New Wave |
+| Don't Do Me Like That | Tom Petty & the Heartbreakers | 1979 | Rock |
+| (Don't Fear) The Reaper | Blue Öyster Cult | 1975 | Classic Rock |
+| Don't Let Her Go | Newfane | 2019 | Alternative |
+| Don't Let Me Down (Slowly) | The Main Drag | 2009 | Indie Rock |
+| Don't Look Back In Anger | Oasis | 1995 | Rock |
+| Don't Speak | No Doubt | 1995 | Pop-Rock |
 | Don't Stand So Close to Me | The Police | 1980 | Pop-Rock |
-| Down with the Sickness | Disturbed | 2000s | Nu-Metal |
-| Drain You | Nirvana | 1990s | Grunge |
-| Drain You | Nirvana | 1990s | Grunge |
+| Don't Stop | Fleetwood Mac | 1977 | Classic Rock |
+| Don't Stop Believing | Journey | 1981 | Classic Rock |
+| Don't You (Forget About Me) | Simple Minds | 1985 | New Wave |
+| Dope Nose | Weezer | 2002 | Alternative |
+| Dopplegänger | Freezepop | 2010 | Pop/Dance/Electronic |
+| Down on the Corner | Creedence Clearwater Revival | 1969 | Southern Rock |
+| Down with the Sickness | Disturbed | 2000 | Nu-Metal |
+| Dragula | Rob Zombie | 1998 | Nu-Metal |
+| Drain You | Nirvana | 1991 | Grunge |
 | Dream Genie | Lightning Bolt | 2015 | Rock |
+| Dreamin' | Weezer | 2008 | Alternative |
+| Deaming of Love | Lights Resolve | 2009 | Indie Rock |
 | Dreaming of You | The Coral | 2002 | Indie Rock |
+| Dreams | The Cranberries | 1993 | Alternative |
+| Dreams | Fleetwood Mac | 1977 | Classic Rock |
+| Driver 8 | R.E.M. | 1985 | Alternative |
 | Du Hast | Rammstein | 1997 | Metal |
-| East Jesus Nowhere | Green Day | 2009 |  |
-| Electric Version | The New Pornographers | 2000s | Rock |
-| Emenius Sleepus | Green Day | 1994 |  |
-| Enter Sandman | Metallica | 1990s | Metal |
-| Epic | Faith No More | 1980s | Rock |
-| E-Pro | Beck | 2000s | Alternative |
-| Everlong | Foo Fighters | 1990s | Alternative |
-| Everlong | Foo Fighters | 1990s | Alternative |
+| East Jesus Nowhere | Green Day | 2009 | Rock |
+| Edge of Seventeen (Just Like the White Winged Dove) | Stevie Nicks | 1981 | Classic Rock |
+| El Scorcho | Weezer | 1996 | Alternative |
+| Electric Version | The New Pornographers | 2003 | Rock |
+| Emenius Sleepus | Green Day | 1994 | Punk |
+| Eminence Front | The Who | 1982 | Classic Rock |
+| Entangled | Honest Bob and the Factory to Dealer Incentives | 2008 | Indie Rock |
+| Epic | Faith No More | 1990 | Rock |
+| Even Flow | Pearl Jam | 1991 | Grunge |
+| Even the Losers (Live) | Tom Petty & the Heartbreakers | 2009 | Rock |
+| Ever Fallen in Love | Buzzcocks, As Made Famous By | 1978 | Punk |
+| E-Pro | Beck | 2005 | Alternative |
+| Everlong | Foo Fighters | 1997 | Alternative |
 | Every Little Thing She Does Is Magic | The Police | 1981 | Pop-Rock |
 | Everybody Wants to Rule the World | Tears for Fears | 1985 | Pop-Rock |
-| Extraordinary Girl | Green Day | 2004 |  |
-| Eye of the Tiger | Survivor | 1980s | Rock |
-| F.O.D. | Green Day | 1994 |  |
+| Ex-Girlfriend | No Doubt | 2003 | Pop-Rock |
+| Excuse Me Mr. | No Doubt | 1995 | Pop-Rock |
+| Exploited & Exposed | Symbion Project | 2009 | Pop/Dance/Electronic |
+| Extraordinary Girl | Green Day | 2004 | Rock |
+| Eye of the Tiger | Survivor | 1982 | Rock |
+| F.O.D. | Green Day | 1994 | Punk |
+| Fall Apart | Shocked Laura | 2019 | Pop/Dance/Electronic |
 | False Alarm | The Bronx | 2003 | Punk |
-| Feast and the Famine, The | Foo Fighters | 2014 | Alternative |
-| Feel Invincible | Skillet | 2016 | Rock |
-| Feel the Pain | Dinosaur Jr. | 1990s | Alternative |
+| The Feast and the Famine | Foo Fighters | 2014 | Alternative |
+| Feel the Pain | Dinosaur Jr. | 1994 | Alternative |
+| The Feeling | Kutless | 2008 | Rock |
 | Fever | The Black Keys | 2014 | Rock |
-| Final Countdown, The | Europe | 1986 | Metal |
+| The Final Countdown | Europe | 1986 | Metal |
 | Fire | The Jimi Hendrix Experience | 1967 | Classic Rock |
-| Flirtin' with Disaster | Molly Hatchet | 1970s | Southern Rock |
-| Float On | Modest Mouse | 2000s | Indie Rock |
-| Float On | Modest Mouse | 2000s | Indie Rock |
+| Flirtin' with Disaster | Molly Hatchet | 1979 | Southern Rock |
+| Float On | Modest Mouse | 2004 | Indie Rock |
 | Fly Like an Eagle | Steve Miller Band | 1976 | Classic Rock |
 | Follow You Down | Gin Blossoms | 1996 | Alternative |
+| Folsom Prison Blues | Johnny Cash | 1955 | Country |
 | Foolin' | Def Leppard | 1983 | Metal |
-| Foreplay/Long Time | Boston | 1970s | Classic Rock |
+| Foreplay/Long Time | Boston | 1976 | Classic Rock |
+| For What It's Worth | Buffalo Springfield | 1967 | Classic Rock |
 | Forget About Tomorrow | The Bergamot | 2016 | Alternative |
+| Fortunate Son | Creedence Clearwater Revival, As Made Famous By | 1969 | Southern Rock |
+| Fortunate Son (Original Version) | Creedence Clearwater Revival | 1969 | Southern Rock |
 | Free Bird | Lynyrd Skynyrd | 1973 | Southern Rock |
 | Free Fallin' | Tom Petty | 1989 | Classic Rock |
 | Free Falling | The Warning | 2015 | Rock |
 | Friday I'm In Love | The Cure | 1992 | New Wave |
-| Gasoline | Audioslave | 2000s | Rock |
-| Geek Stink Breath | Green Day | 1995 |  |
-| Get Cleana | Anarchy Club | 2000s | Metal |
+| Garden | Pearl Jam | 1991 | Grunge |
+| Geek Stink Breath | Green Day | 1995 | Punk |
+| Get Clean | Anarchy Club | 2009 | Metal |
 | Get Free | The Vines | 2002 | Rock |
+| Get It On | The Chevelles | 2008 | Rock |
+| Get Lucky | Daft Punk ft. Pharrell Williams | 2013 | Pop/Dance/Electronic |
+| Get Ready 2 Rokk | Freezepop | 2000 | Pop/Dance/Electronic |
 | Get Up, Stand Up | Bob Marley and the Wailers | 1973 | Reggae/Ska |
 | Ghostbusters | Ray Parker Jr. | 1984 | Other |
-| Gimme Shelter | The Rolling Stones | 1960s | Classic Rock |
+| Gimme Shelter | The Rolling Stones | 1969 | Classic Rock |
+| Girl's Not Grey | AFI | 2003 | Emo |
 | Girls & Boys | Good Charlotte | 2002 | Pop-Rock |
-| Girl's Not Grey | AFI | 2000s | Alternative |
-| Give It All | Rise Against | 2000s | Punk |
+| Give It All | Rise Against | 2004 | Punk |
 | Give It Away | Red Hot Chili Peppers | 1991 | Alternative |
-| Give It Awaybc | Red Hot Chili Peppers | 1990s | Alternative |
-| Give Me Novacaine/She's A Rebel[b] | Green Day | 2004 |  |
-| Go with the Flow | Queens of the Stone Age | 2000s | Rock |
-| Go Your Own Way | Fleetwood Mac | 1970s | Classic Rock |
+| Give It to Me | Cocktail Slippers | 2006 | Indie Rock |
+| Give Me Novacaine/She's A Rebel | Green Day | 2004 | Rock |
+| Go with the Flow | Queens of the Stone Age | 2002 | Rock |
+| Go Your Own Way | Fleetwood Mac | 1977 | Classic Rock |
+| Godzilla | Blue Öyster Cult | 1977 | Classic Rock |
+| Going Mobile | The Who | 1971 | Classic Rock |
+| Gone Away | The Offspring | 1997 | Punk |
 | Good | STL GLD | 2016 | Hip-Hop/Rap |
-| Good Riddance (Time of Your Life)[c] | Green Day | 1997 |  |
-| Good Vibrations (Live)[b] | The Beach Boys | 1968 | Rock |
+| Good Riddance (Time of Your Life) | Green Day | 1997 | Punk |
+| Good Times Roll | The Cars | 1978 | New Wave |
+| Good Vibrations (Live) | The Beach Boys | 1968 | Rock |
+| Gouge Away | Pixies | 1989 | Alternative |
 | Grace | Supergrass | 2002 | Alternative |
-| Green Grass and High Tides | The Outlaws | 1970s | Southern Rock |
+| The Greatest Man That Ever Lived | Weezer | 2008 | Alternative |
+| Green Grass and High Tides | The Outlaws, As Made Famous By | 1975 | Southern Rock |
+| Green River | Creedence Clearwater Revival | 1969 | Southern Rock |
 | Hail to the King | Avenged Sevenfold | 2013 | Metal |
 | Halls of Valhalla | Judas Priest | 2014 | Metal |
 | Hand That Feeds, The | Nine Inch Nails | 2000s | Rock |
@@ -473,8 +519,8 @@ Here's a list of all the songs I own in Rock Band so people can easily make requ
 | Supreme Girla | The Sterns | 2000s | Pop-Rock |
 | Survive | The Warning | 2017 | Rock |
 | Suspicious Minds | Elvis Presley | 1969 | Rock |
-| Sweater Weather | The Neighbourhood | 2011 | Indie Rock |
 | Sweater Weather | Parks | 2012 | Pop-Rock |
+| Sweater Weather | The Neighbourhood | 2011 | Indie Rock |
 | Swing, Swing | The All-American Rejects | 2003 | Emo |
 | Tangled Up in Blue | Bob Dylan | 1970s | Classic Rock |
 | Teen Age Riot | Sonic Youth | 1980s | Alternative |
